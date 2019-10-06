@@ -1,4 +1,5 @@
 # DES-UOC
+
 Solución de la PEC1 para la UOC en la materia de identidad digital.
 
 Se desarrolló este pequeño script ya que por fuerza bruta mi computador no iba a dar solución a la práctica.
@@ -14,5 +15,6 @@ Mejoras a realizar:
 3) Aplicar DRY en las funciones.
 
 4) Recibir los salt por parámetro 
+
 
 
